@@ -15,7 +15,7 @@
 ### 🛠️ Skills & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20%26%20ML-0A192F?style=for-the-badge"/>
@@ -28,23 +28,23 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username='pradeep14012004'&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username='pradeep14012004'&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeep14012004&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep14012004&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user='pradeep14012004'&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep14012004&theme=tokyonight"/>
 </p>
 
 ---
 
 ### 🏆 Achievements & Certifications
-- 🥇 **UPSC NDA 1 & NDA 2**
+- 🥇 **UPSC NDA**
 - 📜 Advanced SQL Certification
-- 📜 HTML/CSS Certification
+- 📜 HTML & CSS Certification
 - 📜 Computational Fluid Mechanics – Airflow Around a Spoiler
 - 🌐 Attendee – **UbuCon India 2025**
 
