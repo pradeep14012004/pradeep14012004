@@ -26,21 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeep14012004&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep14012004&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep14012004&theme=tokyonight"/>
-</p>
-
----
-
 ### 🏆 Achievements & Certifications
 - 🥇 **UPSC NDA**
 - 📜 Advanced SQL Certification
