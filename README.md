@@ -69,46 +69,73 @@ I enjoy turning machine-learning ideas into practical engineering projects — f
 
 ## 🧩 What I Work On
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2000&pause=500&color=67E8F9&center=true&vCenter=true&width=850&lines=%5B+ACTIVE+SYSTEMS+%5D;%3E+BUILDING+AI-DRIVEN+SYSTEMS;%3E+ENGINEERING+INTELLIGENT+NETWORKS;%3E+EXPLORING+AUTONOMOUS+ROBOTICS" alt="Animated systems header" />
+
+<br/><br/>
+
 <table>
 <tr>
 <td align="center" width="25%">
 
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" width="100" />
+
 ### 🧠 AI / ML
-`CNN` · `RNN` · `LSTM`  
-`Transformers` · `Attention`  
-`Anomaly Detection`
+**Deep Learning**
+
+CNN · RNN · LSTM  
+Transformers · Attention  
+Anomaly Detection
 
 </td>
 <td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=linux,docker&theme=dark" width="100" />
 
 ### 🌐 5G / 6G
-`Network Slicing`  
-`QoS` · `Resource Allocation`  
-`Network Intelligence`
+**Network Intelligence**
+
+Network Slicing  
+QoS · Resource Allocation  
+Traffic Prediction
 
 </td>
 <td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=ros,opencv&theme=dark" width="100" />
 
 ### 🤖 Robotics
-`ROS / ROS2`  
-`SLAM` · `Perception`  
-`Navigation` · `Control`
+**Autonomous Systems**
+
+ROS2 · SLAM  
+Perception · Localization  
+Navigation · Control
 
 </td>
 <td align="center" width="25%">
 
+<img src="https://skillicons.dev/icons?i=linux,python&theme=dark" width="100" />
+
 ### 🛡️ Security
-`Threat Prediction`  
-`Anomaly Detection`  
-`Secure Networking`
+**Threat Intelligence**
+
+Threat Prediction  
+Anomaly Detection  
+Secure Networking
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
-<br>
+<img src="https://img.shields.io/badge/AI%20%2B%20SYSTEMS-ACTIVE-06B6D4?style=for-the-badge&labelColor=0B1220" />
+<img src="https://img.shields.io/badge/NETWORKS-5G%2F6G-4F46E5?style=for-the-badge&labelColor=0B1220" />
+<img src="https://img.shields.io/badge/ROBOTICS-AUTONOMOUS-7C3AED?style=for-the-badge&labelColor=0B1220" />
+<img src="https://img.shields.io/badge/SECURITY-ML%20%2B%20ANALYTICS-0F766E?style=for-the-badge&labelColor=0B1220" />
+
+</div>
 
 <div align="center">
 
