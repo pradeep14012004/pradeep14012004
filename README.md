@@ -26,9 +26,10 @@
 
 <table align="center">
 <tr>
+<tr>
 <td align="center" width="20%">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/pytorch.svg" width="48" height="48" alt="PyTorch" />
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="52" height="52" alt="AI" />
 
 **AI / ML**
 
@@ -38,7 +39,7 @@ Transformers · LSTM
 </td>
 <td align="center" width="20%">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/linux.svg" width="48" height="48" alt="Linux" />
+<img src="https://img.icons8.com/fluency/96/5g.png" width="52" height="52" alt="5G" />
 
 **5G / 6G**
 
@@ -48,7 +49,7 @@ Slicing · QoS
 </td>
 <td align="center" width="20%">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/ros.svg" width="48" height="48" alt="ROS" />
+<img src="https://img.icons8.com/fluency/96/robot-2.png" width="52" height="52" alt="Robotics" />
 
 **Robotics**
 
@@ -58,7 +59,7 @@ Autonomous Systems
 </td>
 <td align="center" width="20%">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/python.svg" width="48" height="48" alt="Python" />
+<img src="https://img.icons8.com/fluency/96/cyber-security.png" width="52" height="52" alt="Cybersecurity" />
 
 **Security**
 
@@ -68,7 +69,7 @@ Anomaly Detection
 </td>
 <td align="center" width="20%">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/arduino.svg" width="48" height="48" alt="Arduino" />
+<img src="https://img.icons8.com/fluency/96/iot-sensor.png" width="52" height="52" alt="IoT" />
 
 **Edge / IoT**
 
