@@ -4,7 +4,17 @@
 
 <a href="https://github.com/pradeep14012004"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=AI%2FML+%C3%97+Robotics+%C3%97+5G%2F6G;Deep+Learning+%C3%97+Cybersecurity+%C3%97+Edge+AI;Building+Intelligent+Systems+%26+Research+Projects" alt="Typing animation" /></a>
 
-<p><a href="https://github.com/pradeep14012004?tab=followers"><img src="https://img.shields.io/github/followers/pradeep14012004?style=for-the-badge&logo=github&color=1f6feb&labelColor=21262d" /></a> <a href="mailto:pradeepmallappadoddakaragi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
+<p>
+<a href="https://github.com/pradeep14012004">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:pradeepmallappadoddakaragi@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/pradeep-m-doddakaragi/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
 </div>
 
