@@ -26,10 +26,9 @@
 
 <table align="center">
 <tr>
-<tr>
 <td align="center" width="20%">
 
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="52" height="52" alt="AI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="52" height="52" alt="PyTorch" />
 
 **AI / ML**
 
@@ -39,7 +38,7 @@ Transformers · LSTM
 </td>
 <td align="center" width="20%">
 
-<img src="https://img.icons8.com/fluency/96/5g.png" width="52" height="52" alt="5G" />
+<img src="https://cdn.simpleicons.org/ericsson/0B0BFF" width="52" height="52" alt="Ericsson" />
 
 **5G / 6G**
 
@@ -49,7 +48,7 @@ Slicing · QoS
 </td>
 <td align="center" width="20%">
 
-<img src="https://img.icons8.com/fluency/96/robot-2.png" width="52" height="52" alt="Robotics" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original.svg" width="52" height="52" alt="ROS" />
 
 **Robotics**
 
@@ -59,7 +58,7 @@ Autonomous Systems
 </td>
 <td align="center" width="20%">
 
-<img src="https://img.icons8.com/fluency/96/cyber-security.png" width="52" height="52" alt="Cybersecurity" />
+<img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="52" height="52" alt="Cisco" />
 
 **Security**
 
@@ -69,7 +68,7 @@ Anomaly Detection
 </td>
 <td align="center" width="20%">
 
-<img src="https://img.icons8.com/fluency/96/iot-sensor.png" width="52" height="52" alt="IoT" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="52" height="52" alt="Arduino" />
 
 **Edge / IoT**
 
@@ -77,8 +76,8 @@ Edge AI
 Resource-Constrained AI
 
 </td>
-</tr>>
-
+</tr>
+</table>
 <br>
 
 ## 🚀 What I Build
