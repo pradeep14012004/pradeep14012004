@@ -40,26 +40,27 @@ class PradeepDoddakaragi:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,kotlin,bash,pytorch,tensorflow,opencv,sklearn,ros,linux,docker,git,github,vscode,nodejs,react,postgres,mysql&perline=10&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CNN-Deep_Learning-38bdf8?style=for-the-badge&labelColor=21262d" />
-<img src="https://img.shields.io/badge/LSTM-Sequence_Models-818cf8?style=for-the-badge&labelColor=21262d" />
-<img src="https://img.shields.io/badge/Transformers-Attention-0284c7?style=for-the-badge&labelColor=21262d" />
-<img src="https://img.shields.io/badge/Edge_AI-TinyML-c084fc?style=for-the-badge&labelColor=21262d" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,kotlin,php,mysql,mongodb,pytorch,tensorflow,keras,opencv,sklearn,numpy,pandas,nodejs,react,postgres,docker,linux,git,github,vscode&perline=8&theme=dark" />
 
 </div>
 
-# Research Interests
+### 🧠 AI / Machine Learning
+`Supervised Learning` · `Unsupervised Learning` · `Feature Engineering` · `Model Evaluation` · `Hyperparameter Tuning`
 
-- **AI for 5G/6G Networks**
-- **Intelligent Network Slicing**
-- **Deep Learning & Anomaly Detection**
-- **Cybersecurity & Threat Intelligence**
-- **Robotics & Autonomous Systems**
-- **IoT & Edge AI**
-- **NLP & Sentiment Analysis**
+### 🔥 Deep Learning
+`Neural Networks` · `CNNs` · `RNNs` · `LSTMs` · `Transformers` · `Attention Mechanisms`
+
+### 🤖 Robotics & Computer Vision
+`ROS / ROS2` · `Robot Perception` · `Sensor Fusion` · `SLAM` · `Localization` · `Mapping` · `Path Planning` · `Autonomous Navigation` · `Kinematics` · `Control Systems` · `OpenCV`
+
+### 🌐 Systems, Networking & Security
+`5G/6G Network Slicing` · `QoS & Resource Allocation` · `TCP/IP` · `GRE VPN` · `ACLs` · `Cyber Threat Analysis` · `Anomaly Detection`
+
+### 🗄️ Databases & Development
+`MySQL` · `MongoDB` · `PostgreSQL` · `Node.js` · `React` · `REST APIs` · `CRUD`
+
+### 🛠️ Tools & Platforms
+`Git` · `GitHub` · `Linux` · `Docker` · `VS Code` · `Jupyter Notebook` · `Google Colab` · `Anaconda` · `Conda`
 
 # Current Focus
 
