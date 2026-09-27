@@ -119,16 +119,71 @@ I enjoy turning machine-learning ideas into practical engineering projects — f
 
 </div>
 
-<details>
-<summary><b>🔭 Research Radar</b></summary>
+## 🔭 Research Radar
 
-<br>
+<div align="center">
 
-`AI for 5G/6G` · `Intelligent Network Slicing` · `Deep Learning`  
-`Cybersecurity & Threat Intelligence` · `Robotics & Autonomous Systems`  
-`IoT & Edge AI` · `NLP & Sentiment Analysis`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2100&pause=550&color=67E8F9&center=true&vCenter=true&width=850&lines=%5B+RESEARCH+RADAR+%5D;%3E+AI+%2B+5G%2F6G+NETWORK+INTELLIGENCE;%3E+ROBOTICS+%2B+AUTONOMOUS+SYSTEMS;%3E+CYBERSECURITY+%2B+THREAT+INTELLIGENCE;%3E+IoT+%2B+EDGE+AI;%3E+NLP+%2B+SENTIMENT+ANALYSIS" alt="Animated research radar" />
 
-</details>
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="50" />
+
+### AI / ML
+Deep Learning  
+Anomaly Detection
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="50" />
+
+### 5G / 6G
+Network Slicing  
+QoS · Resource Allocation
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://skillicons.dev/icons?i=ros&theme=dark" width="50" />
+
+### Robotics
+ROS2 · SLAM  
+Autonomous Systems
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" />
+
+### Security
+Threat Intelligence  
+Anomaly Detection
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="50" />
+
+### Edge / IoT
+Edge AI · IoT  
+Resource-Constrained AI
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/ACTIVE-Research-06B6D4?style=for-the-badge&labelColor=0B1220" />
+<img src="https://img.shields.io/badge/AI%20%2B%20NETWORKS-5G%2F6G-4F46E5?style=for-the-badge&labelColor=0B1220" />
+<img src="https://img.shields.io/badge/ROBOTICS-AUTONOMOUS%20SYSTEMS-7C3AED?style=for-the-badge&labelColor=0B1220" />
+
+</div>
 
 <div align="center">
 
