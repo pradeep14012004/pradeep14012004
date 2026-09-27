@@ -12,95 +12,74 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=750&color=38BDF8&center=true&vCenter=true&width=900&lines=AI%2FML+%E2%80%A2+Robotics+%E2%80%A2+5G%2F6G+%E2%80%A2+Cybersecurity;Deep+Learning+%E2%80%A2+Network+Intelligence+%E2%80%A2+Edge+AI;Building+Intelligent+Systems+with+Real-World+Impact" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2400&pause=650&color=67E8F9&center=true&vCenter=true&width=900&lines=INITIALIZING+%3E%3E%3E+PRADEEP_M_DODDAKARAGI;AI%2FML+%2B+ROBOTICS+%2B+5G%2F6G;BUILDING+INTELLIGENT+SYSTEMS;RESEARCHING+AI-DRIVEN+NETWORK+INTELLIGENCE" alt="Animated developer console" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:818CF8,100:0EA5E9&height=4&section=header" width="82%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:7C3AED&height=5&section=header" width="88%" />
 
 </div>
 
-<div align="center">
-
-### 👨‍💻 Computer Science • AI/ML • Robotics
-
-**3rd-year B.Tech (Hons.) CSE** · **RV University, Bengaluru**
-
-*Exploring intelligent systems across AI, autonomous robotics, secure networks and Edge AI.*
-
-</div>
-
-<br>
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="25%">
+<td width="58%" valign="top">
 
-### 🧠
-**AI / ML**
+### \`01\` — WHO AM I?
 
-Deep Learning  
-CNNs · RNNs · LSTMs  
-Transformers · Attention
+**Pradeep M. Doddakaragi**  
+3rd-year B.Tech (Hons.) CSE · RV University, Bengaluru
 
-</td>
-<td align="center" width="25%">
+I build and study systems at the intersection of **AI, intelligent networks, robotics and cybersecurity** — with a focus on turning models into practical systems.
 
-### 🌐
-**5G / 6G**
-
-Network Intelligence  
-Network Slicing  
-QoS · Resource Allocation
+> \`AI → Intelligence → Systems → Impact\`
 
 </td>
-<td align="center" width="25%">
+<td width="42%" valign="top">
 
-### 🤖
-**Robotics**
+### \`02\` — CURRENT STATE
 
-ROS / ROS2  
-SLAM · Perception  
-Autonomous Navigation
+\`\`\`text
+STATUS      : BUILDING
+MODE        : RESEARCH
+DOMAIN      : AI + SYSTEMS
+INTERESTS   : 5G/6G • ROBOTICS
+EDGE        : CYBERSECURITY • IoT
+\`\`\`
 
-</td>
-<td align="center" width="25%">
-
-### 🛡️
-**Security**
-
-Threat Prediction  
-Anomaly Detection  
-Cybersecurity
+<img src="https://img.shields.io/badge/BUILDING-AI%20%2B%205G%2F6G-06B6D4?style=for-the-badge&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/EXPLORING-Robotics%20%2B%20Edge%20AI-8B5CF6?style=for-the-badge&labelColor=0F172A" />
 
 </td>
 </tr>
 </table>
 
-<br>
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Currently_Building-AI%20%2B%205G%2F6G-38BDF8?style=flat-square" />
-<img src="https://img.shields.io/badge/Exploring-Robotics%20%2B%20Edge%20AI-818CF8?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-Research%20%2B%20Systems-0EA5E9?style=flat-square" />
+### \`03\` — SYSTEM DOMAINS
+
+| 🧠 AI / ML | 🌐 NETWORK INTELLIGENCE | 🤖 ROBOTICS | 🛡️ SECURITY |
+| :---: | :---: | :---: | :---: |
+| Deep Learning | 5G / 6G | ROS / ROS2 | Threat Prediction |
+| CNN · RNN · LSTM | Network Slicing | SLAM · Perception | Anomaly Detection |
+| Transformers · Attention | QoS · Resource Allocation | Navigation · Control | Cybersecurity |
 
 </div>
 
+<br>
+
 <details>
-<summary><b>🔭 Research & Technical Interests</b></summary>
+<summary><b>▸ Research & Technical Interests</b></summary>
 
 <br>
 
-`AI for 5G/6G` · `Intelligent Network Slicing` · `Deep Learning`  
-`Cybersecurity & Threat Intelligence` · `Robotics & Autonomous Systems`  
-`IoT & Edge AI` · `NLP & Sentiment Analysis`
+\`AI for 5G/6G\` · \`Intelligent Network Slicing\` · \`Deep Learning\` · \`Cybersecurity & Threat Intelligence\`  
+\`Robotics & Autonomous Systems\` · \`IoT & Edge AI\` · \`NLP & Sentiment Analysis\`
 
 </details>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,45:0284c7,100:818cf8&height=95&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,35:0EA5E9,70:6366F1,100:0B1020&height=85&section=footer&animation=twinkling" width="100%" />
 
 </div>
 
