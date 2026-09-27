@@ -24,6 +24,24 @@ class PradeepDoddakaragi:
 - 🦾 **Robotics** — ROS2, Gazebo, SLAM and autonomous robot control.
 - 🛡️ **Cybersecurity** — ML-based network traffic analysis and threat prediction.
 
+# Education
+
+| Qualification | Institution | Year |
+| :--- | :--- | :---: |
+| **B.Tech (Hons.) — Computer Science & Engineering** | RV University | 2024–2028 |
+| **Pre-University (12th)** | Expert Pre-University College, Mangaluru | 2022 |
+| **High School (10th)** | KLE School, Haveri | 2020 |
+
+**Minor:** Robotics
+
+# Research Experience
+
+### Research Intern — RV University · 2026
+
+- Researched **6G Healthcare Network Slicing** using LSTM traffic prediction and Isolation Forest anomaly detection for QoS-aware resource allocation.
+- Developed an **adaptive escalation framework** with selective LLM reasoning and dynamic network slice allocation.
+- Achieved **92.7–96.8% traffic prediction accuracy** across evaluated traffic scenarios.
+
 # Featured Projects
 
 | Project | Focus | Stack |
@@ -32,7 +50,9 @@ class PradeepDoddakaragi:
 | **AI Cyber Threat Prediction** | Bi-LSTM + Deep Autoencoder | `Python` `PyTorch` |
 | **CodeJudge** | Microservices automated code evaluation | `Node.js` `React` `PostgreSQL` `Docker` |
 | **Robotics & ROS2** | Robot simulation, wall following and SLAM | `ROS2` `Gazebo` `Python` |
-| **Military DBMS** | Relational database management | `SQL` `DBMS` |
+| **Military DBMS** | Normalized database, CRUD, role-based access and real-time tracking | `MySQL` `Node.js` |
+| **FeedHub: Aspect-Based Sentiment Analysis** | Citizen-feedback NLP pipeline using TF-IDF and classical ML | `Python` `NLP` `Scikit-learn` |
+| **Secure Site-to-Site VPN with GRE Tunneling** | Enterprise VPN, ACL-based access control, routing and connectivity testing | `Networking` `GRE` `ACL` |
 
 # Technology Stack
 
@@ -48,6 +68,24 @@ class PradeepDoddakaragi:
 <img src="https://img.shields.io/badge/Edge_AI-TinyML-c084fc?style=for-the-badge&labelColor=21262d" />
 
 </div>
+
+# Research Interests
+
+- **AI for 5G/6G Networks**
+- **Intelligent Network Slicing**
+- **Deep Learning & Anomaly Detection**
+- **Cybersecurity & Threat Intelligence**
+- **Robotics & Autonomous Systems**
+- **IoT & Edge AI**
+- **NLP & Sentiment Analysis**
+
+# Certifications & Awards
+
+- 🛡️ **Cyber Espionage and Counterintelligence** — Starweaver · Dec 2025
+- 🔎 **Intelligence Analysis** — Udemy · Feb 2025
+- 🗄️ **Advanced SQL** — CodeChef / HackerRank · May 2025
+- 🐍 **Python Programming** — CodeChef · Feb 2025
+- 🐧 **UbuCon India 2025** — Ubuntu India · Nov 2025
 
 # Current Focus
 
