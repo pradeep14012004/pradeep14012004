@@ -10,19 +10,55 @@
 
 # About Me
 
-> **Pradeep M. Doddakaragi** — 3rd-year B.Tech (Hons.) CSE student at **RV University, Bengaluru**, focused on **AI/ML, Robotics, 5G/6G networking, cybersecurity and Edge AI**.
+<div align="center">
 
-```python
-class PradeepDoddakaragi:
-    role = "Computer Science Student · AI/ML · Robotics"
-    focus = ["AI/ML", "Robotics", "5G/6G", "Cybersecurity", "Edge AI"]
-    tools = ["Python", "Java", "PyTorch", "TensorFlow", "ROS2", "Docker", "Linux"]
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=AI%2FML+%7C+Robotics+%7C+5G%2F6G+%7C+Cybersecurity;Building+Intelligent+%26+Secure+Systems;Researching+AI-driven+Network+Intelligence" alt="Animated profile focus" />
 
-- 🤖 **AI & Deep Learning** — CNNs, RNNs, LSTMs, Transformers, Attention and Autoencoders.
-- 🌐 **Network Intelligence** — adaptive 5G/6G network slicing, QoS and resource management.
-- 🦾 **Robotics** — ROS2, Gazebo, SLAM and autonomous robot control.
-- 🛡️ **Cybersecurity** — ML-based network traffic analysis and threat prediction.
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="85%" />
+
+</div>
+
+> **Pradeep M. Doddakaragi** — 3rd-year B.Tech (Hons.) CSE student at **RV University, Bengaluru**, working across **AI/ML, Robotics, 5G/6G networking, cybersecurity and Edge AI**.
+
+<div align="center">
+
+| 🧠 AI / Deep Learning | 🌐 Network Intelligence | 🤖 Robotics | 🛡️ Cybersecurity |
+| :---: | :---: | :---: | :---: |
+| CNNs · RNNs · LSTMs | 5G/6G · QoS · Slicing | ROS2 · SLAM · CV | Threat Prediction · Anomaly Detection |
+
+</div>
+
+### ⚡ What I Build
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Systems-Deep%20Learning-38BDF8?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Network%20Intelligence-5G%2F6G-818CF8?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Robotics-ROS2-22C55E?style=for-the-badge&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/Security-Cyber%20Threat%20Analysis-F97316?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+
+</div>
+
+<details>
+<summary><b>🔭 Core Interests</b></summary>
+
+- AI for **5G/6G networks**
+- Intelligent **network slicing & resource allocation**
+- **Deep learning & anomaly detection**
+- **Cybersecurity & threat intelligence**
+- **Robotics & autonomous systems**
+- **IoT & Edge AI**
+- **NLP & sentiment analysis**
+
+</details>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0284c7,100:818cf8&height=110&section=footer&animation=twinkling" width="100%" />
+
+</div>
 
 # Featured Projects
 
