@@ -28,7 +28,7 @@
 <tr>
 <td align="center" width="20%">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="52" height="52" alt="PyTorch" />
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="52" height="52" alt="PyTorch" />
 
 **AI / ML**
 
@@ -48,7 +48,7 @@ Slicing · QoS
 </td>
 <td align="center" width="20%">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original.svg" width="52" height="52" alt="ROS" />
+<img src="https://cdn.simpleicons.org/ros/22314E" width="52" height="52" alt="ROS" />
 
 **Robotics**
 
@@ -68,7 +68,7 @@ Anomaly Detection
 </td>
 <td align="center" width="20%">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="52" height="52" alt="Arduino" />
+<img src="https://cdn.simpleicons.org/arduino/00979D" width="52" height="52" alt="Arduino" />
 
 **Edge / IoT**
 
