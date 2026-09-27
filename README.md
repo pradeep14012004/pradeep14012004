@@ -12,74 +12,127 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2400&pause=650&color=67E8F9&center=true&vCenter=true&width=900&lines=INITIALIZING+%3E%3E%3E+PRADEEP_M_DODDAKARAGI;AI%2FML+%2B+ROBOTICS+%2B+5G%2F6G;BUILDING+INTELLIGENT+SYSTEMS;RESEARCHING+AI-DRIVEN+NETWORK+INTELLIGENCE" alt="Animated developer console" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2200&pause=600&color=67E8F9&center=true&vCenter=true&width=950&lines=HELLO%2C+I'M+PRADEEP+M.+DODDAKARAGI.;AI%2FML+%E2%80%A2+ROBOTICS+%E2%80%A2+5G%2F6G+%E2%80%A2+CYBERSECURITY;I+BUILD+INTELLIGENT+SYSTEMS;I+EXPLORE+AI-DRIVEN+NETWORK+INTELLIGENCE" alt="Animated profile introduction" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:7C3AED&height=5&section=header" width="88%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,35:06B6D4,70:4F46E5,100:0B1220&height=6&section=header" width="92%" />
 
 </div>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="52%" valign="top">
 
-### \`01\` — WHO AM I?
+## ⚡ Identity
 
 **Pradeep M. Doddakaragi**  
-3rd-year B.Tech (Hons.) CSE · RV University, Bengaluru
+`B.Tech (Hons.) CSE` · `RV University, Bengaluru`
 
-I build and study systems at the intersection of **AI, intelligent networks, robotics and cybersecurity** — with a focus on turning models into practical systems.
+> Building systems where **AI meets networks, robotics and security**.
 
-> \`AI → Intelligence → Systems → Impact\`
+I enjoy turning machine-learning ideas into practical engineering projects — from intelligent healthcare network slicing and cyber-threat prediction to ROS-based robotics and secure networking.
+
+<br>
+
+<img src="https://img.shields.io/badge/ROLE-AI%2FML%20%2B%20SYSTEMS-06B6D4?style=for-the-badge&labelColor=0B1220" />
+<img src="https://img.shields.io/badge/FOCUS-RESEARCH%20%2B%20BUILDING-4F46E5?style=for-the-badge&labelColor=0B1220" />
 
 </td>
-<td width="42%" valign="top">
 
-### \`02\` — CURRENT STATE
+<td width="48%" valign="top">
 
-\`\`\`text
-STATUS      : BUILDING
-MODE        : RESEARCH
-DOMAIN      : AI + SYSTEMS
-INTERESTS   : 5G/6G • ROBOTICS
-EDGE        : CYBERSECURITY • IoT
-\`\`\`
+## 🛰️ System Status
 
-<img src="https://img.shields.io/badge/BUILDING-AI%20%2B%205G%2F6G-06B6D4?style=for-the-badge&labelColor=0F172A" />
-<img src="https://img.shields.io/badge/EXPLORING-Robotics%20%2B%20Edge%20AI-8B5CF6?style=for-the-badge&labelColor=0F172A" />
+```text
+┌─────────────────────────────┐
+│  PRADEEP_OS :: ONLINE       │
+├─────────────────────────────┤
+│  MODE      research + build │
+│  DOMAIN    intelligent AI   │
+│  NETWORK   5G / 6G          │
+│  ROBOTICS  ROS / SLAM       │
+│  SECURITY  threat analysis  │
+│  EDGE      IoT / Edge AI    │
+└─────────────────────────────┘
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1700&pause=400&color=A78BFA&center=true&vCenter=true&width=500&lines=%3E+loading+new+ideas...;%3E+training+models...;%3E+designing+systems...;%3E+deploying+intelligence..." alt="Animated status" />
 
 </td>
 </tr>
 </table>
 
+<br>
+
 <div align="center">
 
-### \`03\` — SYSTEM DOMAINS
+## 🧩 What I Work On
 
-| 🧠 AI / ML | 🌐 NETWORK INTELLIGENCE | 🤖 ROBOTICS | 🛡️ SECURITY |
-| :---: | :---: | :---: | :---: |
-| Deep Learning | 5G / 6G | ROS / ROS2 | Threat Prediction |
-| CNN · RNN · LSTM | Network Slicing | SLAM · Perception | Anomaly Detection |
-| Transformers · Attention | QoS · Resource Allocation | Navigation · Control | Cybersecurity |
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🧠 AI / ML
+`CNN` · `RNN` · `LSTM`  
+`Transformers` · `Attention`  
+`Anomaly Detection`
+
+</td>
+<td align="center" width="25%">
+
+### 🌐 5G / 6G
+`Network Slicing`  
+`QoS` · `Resource Allocation`  
+`Network Intelligence`
+
+</td>
+<td align="center" width="25%">
+
+### 🤖 Robotics
+`ROS / ROS2`  
+`SLAM` · `Perception`  
+`Navigation` · `Control`
+
+</td>
+<td align="center" width="25%">
+
+### 🛡️ Security
+`Threat Prediction`  
+`Anomaly Detection`  
+`Secure Networking`
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/BUILDING-AI%20%2B%205G%2F6G-06B6D4?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORING-Robotics%20%2B%20Edge%20AI-7C3AED?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/INTEREST-Network%20Intelligence-2563EB?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/APPROACH-Research%20%2B%20Systems-0F766E?style=flat-square&logo=github&logoColor=white" />
+
+</div>
+
 <details>
-<summary><b>▸ Research & Technical Interests</b></summary>
+<summary><b>🔭 Research Radar</b></summary>
 
 <br>
 
-\`AI for 5G/6G\` · \`Intelligent Network Slicing\` · \`Deep Learning\` · \`Cybersecurity & Threat Intelligence\`  
-\`Robotics & Autonomous Systems\` · \`IoT & Edge AI\` · \`NLP & Sentiment Analysis\`
+`AI for 5G/6G` · `Intelligent Network Slicing` · `Deep Learning`  
+`Cybersecurity & Threat Intelligence` · `Robotics & Autonomous Systems`  
+`IoT & Edge AI` · `NLP & Sentiment Analysis`
 
 </details>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,35:0EA5E9,70:6366F1,100:0B1020&height=85&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,35:06B6D4,70:4F46E5,100:0B1220&height=105&section=footer&animation=twinkling" width="100%" />
 
 </div>
 
