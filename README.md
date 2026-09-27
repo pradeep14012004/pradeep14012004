@@ -106,30 +106,30 @@ Resource-Constrained AI
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="python" />
-<img src="https://cdn.simpleicons.org/java/ED8B00" width="48" height="48" alt="java" />
-<img src="https://cdn.simpleicons.org/c/A8B9CC" width="48" height="48" alt="c" />
-<img src="https://cdn.simpleicons.org/cpp/00599C" width="48" height="48" alt="cpp" />
-<img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="48" height="48" alt="kotlin" />
-<img src="https://cdn.simpleicons.org/php/777BB4" width="48" height="48" alt="php" />
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="mysql" />
-<img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" height="48" alt="mongodb" />
-<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" height="48" alt="pytorch" />
-<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="48" height="48" alt="tensorflow" />
-<img src="https://cdn.simpleicons.org/keras/D00000" width="48" height="48" alt="keras" />
-<img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="48" height="48" alt="opencv" />
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="scikitlearn" />
-<img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="numpy" />
-<img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="pandas" />
-<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="48" height="48" alt="nodedotjs" />
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="react" />
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48" alt="postgresql" />
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="docker" />
-<img src="https://cdn.simpleicons.org/linux/FCC624" width="48" height="48" alt="linux" />
-<img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="git" />
-<img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="github" />
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="48" height="48" alt="visualstudiocode" />
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="jupyter" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="48" height="48" alt="c" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="kotlin" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" alt="php" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="pytorch" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="tensorflow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="48" height="48" alt="keras" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="48" height="48" alt="opencv" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikitlearn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="numpy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="nodejs" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="react" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="postgresql" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="github" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="vscode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="jupyter" />
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="48" height="48" alt="C++" />
 
 </div>
 
