@@ -170,11 +170,16 @@ Distributed Systems • Robotics • 5G/6G Network Intelligence
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeep14012004&theme=tokyonight" width="100%" alt="GitHub contribution summary" />
+<img src="https://github-readme-stats.vercel.app/api?username=pradeep14012004&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" width="49%" alt="Live GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep14012004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="49%" alt="Live top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=pradeep14012004&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak statistics" />
+<img src="https://streak-stats.demolab.com?user=pradeep14012004&theme=tokyonight&hide_border=true" width="70%" alt="Live GitHub contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep14012004&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Live GitHub contribution activity graph" />
 
 </div>
 
