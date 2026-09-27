@@ -170,8 +170,13 @@ Distributed Systems • Robotics • 5G/6G Network Intelligence
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="49%" alt="GitHub statistics" />
-<img src="./profile/top-langs.svg" width="49%" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=pradeep14012004&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" alt="Live GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep14012004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" alt="Live top languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=pradeep14012004&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" alt="Live GitHub contribution streak" />
 
 </div>
 
