@@ -183,8 +183,21 @@ Resource-Constrained AI
 
 <div align="center">
 
-<a href="https://github.com/pradeep14012004"><img src="https://img.shields.io/badge/GitHub-pradeep14012004-1f6feb?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:pradeepmallappadoddakaragi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/pradeep14012004">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:pradeepmallappadoddakaragi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/pradeep-m-doddakaragi/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=600&color=67E8F9&center=true&vCenter=true&width=720&lines=LET'S+BUILD+%E2%80%A2+LEARN+%E2%80%A2+COLLABORATE;OPEN+TO+TECHNICAL+DISCUSSIONS+%26+RESEARCH" alt="Connect animation" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:818cf8,100:0a0f1e&height=120&section=footer&animation=twinkling" width="100%" />
 
