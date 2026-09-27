@@ -26,13 +26,57 @@
 
 <table align="center">
 <tr>
-<td align="center" width="20%">🧠<br><b>AI / ML</b><br>Deep Learning<br>Transformers · LSTM</td>
-<td align="center" width="20%">🌐<br><b>5G / 6G</b><br>Network Intelligence<br>Slicing · QoS</td>
-<td align="center" width="20%">🤖<br><b>Robotics</b><br>ROS2 · SLAM<br>Autonomous Systems</td>
-<td align="center" width="20%">🛡️<br><b>Security</b><br>Threat Prediction<br>Anomaly Detection</td>
-<td align="center" width="20%">📡<br><b>Edge / IoT</b><br>Edge AI<br>Resource-Constrained AI</td>
-</tr>
-</table>
+<td align="center" width="20%">
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/pytorch.svg" width="48" height="48" alt="PyTorch" />
+
+**AI / ML**
+
+Deep Learning  
+Transformers · LSTM
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/linux.svg" width="48" height="48" alt="Linux" />
+
+**5G / 6G**
+
+Network Intelligence  
+Slicing · QoS
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/ros.svg" width="48" height="48" alt="ROS" />
+
+**Robotics**
+
+ROS2 · SLAM  
+Autonomous Systems
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/python.svg" width="48" height="48" alt="Python" />
+
+**Security**
+
+Threat Prediction  
+Anomaly Detection
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/arduino.svg" width="48" height="48" alt="Arduino" />
+
+**Edge / IoT**
+
+Edge AI  
+Resource-Constrained AI
+
+</td>
+</tr>>
 
 <br>
 
