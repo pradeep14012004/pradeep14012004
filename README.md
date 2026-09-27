@@ -122,25 +122,7 @@ Resource-Constrained AI
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1700&pause=450&color=38BDF8&center=true&vCenter=true&width=850&lines=GATE+CSE+PREPARATION;%E2%80%A2+DSA;%E2%80%A2+OPERATING+SYSTEMS;%E2%80%A2+DBMS;%E2%80%A2+COMPUTER+NETWORKS;%E2%80%A2+COMPUTER+ORGANIZATION;%E2%80%A2+TOC" alt="Animated current focus" />
-
-<br><br>
-
-<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" alt="Python" /></a>
-&nbsp;&nbsp;
-<a href="https://www.cisco.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cisco/cisco-original.svg" width="42" alt="Cisco" /></a>
-&nbsp;&nbsp;
-<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" alt="Linux" /></a>
-&nbsp;&nbsp;
-<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" alt="MySQL" /></a>
-&nbsp;&nbsp;
-<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" alt="Docker" /></a>
-&nbsp;&nbsp;
-<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" alt="Git" /></a>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=1500&pause=300&color=A78BFA&center=true&vCenter=true&width=900&lines=%3E+studying+%7C+building+%7C+solving+%7C+shipping" alt="Animated activity line" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=500&color=38BDF8&center=true&vCenter=true&width=820&lines=GATE+CSE+PREPARATION;DSA+%E2%80%A2+OS+%E2%80%A2+DBMS+%E2%80%A2+COMPUTER+NETWORKS;CO+%E2%80%A2+TOC+%E2%80%A2+DISTRIBUTED+SYSTEMS" alt="Animated current focus" />
 
 </div>
 
