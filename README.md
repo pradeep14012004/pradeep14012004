@@ -12,211 +12,39 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2200&pause=600&color=67E8F9&center=true&vCenter=true&width=950&lines=HELLO%2C+I'M+PRADEEP+M.+DODDAKARAGI.;AI%2FML+%E2%80%A2+ROBOTICS+%E2%80%A2+5G%2F6G+%E2%80%A2+CYBERSECURITY;I+BUILD+INTELLIGENT+SYSTEMS;I+EXPLORE+AI-DRIVEN+NETWORK+INTELLIGENCE" alt="Animated profile introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=23&duration=2200&pause=650&color=67E8F9&center=true&vCenter=true&width=900&lines=AI%2FML+%E2%80%A2+ROBOTICS+%E2%80%A2+5G%2F6G;BUILDING+INTELLIGENT+SYSTEMS;RESEARCHING+AI-DRIVEN+NETWORK+INTELLIGENCE" alt="Animated introduction" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,35:06B6D4,70:4F46E5,100:0B1220&height=6&section=header" width="92%" />
+**Pradeep M. Doddakaragi** · B.Tech (Hons.) CSE · RV University, Bengaluru
+
+*Building practical systems where AI meets networks, robotics and cybersecurity.*
 
 </div>
 
-<table>
-<tr>
-<td width="52%" valign="top">
-
-## ⚡ Identity
-
-**Pradeep M. Doddakaragi**  
-`B.Tech (Hons.) CSE` · `RV University, Bengaluru`
-
-> Building systems where **AI meets networks, robotics and security**.
-
-I enjoy turning machine-learning ideas into practical engineering projects — from intelligent healthcare network slicing and cyber-threat prediction to ROS-based robotics and secure networking.
-
 <br>
 
-<img src="https://img.shields.io/badge/ROLE-AI%2FML%20%2B%20SYSTEMS-06B6D4?style=for-the-badge&labelColor=0B1220" />
-<img src="https://img.shields.io/badge/FOCUS-RESEARCH%20%2B%20BUILDING-4F46E5?style=for-the-badge&labelColor=0B1220" />
-
-</td>
-
-<td width="48%" valign="top">
-
-## 🛰️ System Status
-
-```text
-┌─────────────────────────────┐
-│  PRADEEP_OS :: ONLINE       │
-├─────────────────────────────┤
-│  MODE      research + build │
-│  DOMAIN    intelligent AI   │
-│  NETWORK   5G / 6G          │
-│  ROBOTICS  ROS / SLAM       │
-│  SECURITY  threat analysis  │
-│  EDGE      IoT / Edge AI    │
-└─────────────────────────────┘
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1700&pause=400&color=A78BFA&center=true&vCenter=true&width=500&lines=%3E+loading+new+ideas...;%3E+training+models...;%3E+designing+systems...;%3E+deploying+intelligence..." alt="Animated status" />
-
-</td>
+<table align="center">
+<tr>
+<td align="center" width="20%">🧠<br><b>AI / ML</b><br>Deep Learning<br>Transformers · LSTM</td>
+<td align="center" width="20%">🌐<br><b>5G / 6G</b><br>Network Intelligence<br>Slicing · QoS</td>
+<td align="center" width="20%">🤖<br><b>Robotics</b><br>ROS2 · SLAM<br>Autonomous Systems</td>
+<td align="center" width="20%">🛡️<br><b>Security</b><br>Threat Prediction<br>Anomaly Detection</td>
+<td align="center" width="20%">📡<br><b>Edge / IoT</b><br>Edge AI<br>Resource-Constrained AI</td>
 </tr>
 </table>
 
 <br>
 
-<div align="center">
-
-## 🧩 What I Work On
+## 🚀 What I Build
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2000&pause=500&color=67E8F9&center=true&vCenter=true&width=850&lines=%5B+ACTIVE+SYSTEMS+%5D;%3E+BUILDING+AI-DRIVEN+SYSTEMS;%3E+ENGINEERING+INTELLIGENT+NETWORKS;%3E+EXPLORING+AUTONOMOUS+ROBOTICS" alt="Animated systems header" />
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" width="100" />
-
-### 🧠 AI / ML
-**Deep Learning**
-
-CNN · RNN · LSTM  
-Transformers · Attention  
-Anomaly Detection
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://skillicons.dev/icons?i=linux,docker&theme=dark" width="100" />
-
-### 🌐 5G / 6G
-**Network Intelligence**
-
-Network Slicing  
-QoS · Resource Allocation  
-Traffic Prediction
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://skillicons.dev/icons?i=ros,opencv&theme=dark" width="100" />
-
-### 🤖 Robotics
-**Autonomous Systems**
-
-ROS2 · SLAM  
-Perception · Localization  
-Navigation · Control
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://skillicons.dev/icons?i=linux,python&theme=dark" width="100" />
-
-### 🛡️ Security
-**Threat Intelligence**
-
-Threat Prediction  
-Anomaly Detection  
-Secure Networking
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/AI%20%2B%20SYSTEMS-ACTIVE-06B6D4?style=for-the-badge&labelColor=0B1220" />
-<img src="https://img.shields.io/badge/NETWORKS-5G%2F6G-4F46E5?style=for-the-badge&labelColor=0B1220" />
-<img src="https://img.shields.io/badge/ROBOTICS-AUTONOMOUS-7C3AED?style=for-the-badge&labelColor=0B1220" />
-<img src="https://img.shields.io/badge/SECURITY-ML%20%2B%20ANALYTICS-0F766E?style=for-the-badge&labelColor=0B1220" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1900&pause=450&color=A78BFA&center=true&vCenter=true&width=850&lines=%3E+MODEL+%E2%86%92+SYSTEM+%E2%86%92+REAL-WORLD+APPLICATION;%3E+PREDICT+%E2%86%92+DETECT+%E2%86%92+OPTIMIZE;%3E+RESEARCH+%E2%86%92+ENGINEER+%E2%86%92+DEPLOY" alt="Animated engineering workflow" />
 
 </div>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/BUILDING-AI%20%2B%205G%2F6G-06B6D4?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/EXPLORING-Robotics%20%2B%20Edge%20AI-7C3AED?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/INTEREST-Network%20Intelligence-2563EB?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/APPROACH-Research%20%2B%20Systems-0F766E?style=flat-square&logo=github&logoColor=white" />
-
-</div>
-
-## 🔭 Research Radar
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2100&pause=550&color=67E8F9&center=true&vCenter=true&width=850&lines=%5B+RESEARCH+RADAR+%5D;%3E+AI+%2B+5G%2F6G+NETWORK+INTELLIGENCE;%3E+ROBOTICS+%2B+AUTONOMOUS+SYSTEMS;%3E+CYBERSECURITY+%2B+THREAT+INTELLIGENCE;%3E+IoT+%2B+EDGE+AI;%3E+NLP+%2B+SENTIMENT+ANALYSIS" alt="Animated research radar" />
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="50" />
-
-### AI / ML
-Deep Learning  
-Anomaly Detection
-
-</td>
-<td align="center" width="20%">
-
-<img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="50" />
-
-### 5G / 6G
-Network Slicing  
-QoS · Resource Allocation
-
-</td>
-<td align="center" width="20%">
-
-<img src="https://skillicons.dev/icons?i=ros&theme=dark" width="50" />
-
-### Robotics
-ROS2 · SLAM  
-Autonomous Systems
-
-</td>
-<td align="center" width="20%">
-
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" />
-
-### Security
-Threat Intelligence  
-Anomaly Detection
-
-</td>
-<td align="center" width="20%">
-
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="50" />
-
-### Edge / IoT
-Edge AI · IoT  
-Resource-Constrained AI
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/ACTIVE-Research-06B6D4?style=for-the-badge&labelColor=0B1220" />
-<img src="https://img.shields.io/badge/AI%20%2B%20NETWORKS-5G%2F6G-4F46E5?style=for-the-badge&labelColor=0B1220" />
-<img src="https://img.shields.io/badge/ROBOTICS-AUTONOMOUS%20SYSTEMS-7C3AED?style=for-the-badge&labelColor=0B1220" />
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,35:06B6D4,70:4F46E5,100:0B1220&height=105&section=footer&animation=twinkling" width="100%" />
-
-</div>
+> **From research ideas to working systems:** network intelligence, cyber-threat prediction, autonomous robotics, NLP pipelines and edge-oriented AI.
 
 # Featured Projects
 
@@ -234,35 +62,25 @@ Resource-Constrained AI
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,kotlin,php,mysql,mongodb,pytorch,tensorflow,keras,opencv,sklearn,numpy,pandas,nodejs,react,postgres,docker,linux,git,github,vscode&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,kotlin,php,mysql,mongodb,pytorch,tensorflow,keras,opencv,sklearn,numpy,pandas,nodejs,react,postgres,docker,linux,git,github,vscode,jupyter&perline=8&theme=dark" />
 
 </div>
 
-### 🧠 AI / Machine Learning
-`Supervised Learning` · `Unsupervised Learning` · `Feature Engineering` · `Model Evaluation` · `Hyperparameter Tuning`
+**Languages** · Python · Java · C/C++ · Kotlin · PHP · SQL
 
-### 🔥 Deep Learning
-`Neural Networks` · `CNNs` · `RNNs` · `LSTMs` · `Transformers` · `Attention Mechanisms`
+**AI / Data** · PyTorch · TensorFlow · Keras · Scikit-learn · NumPy · Pandas · OpenCV
 
-### 🤖 Robotics & Computer Vision
-`ROS / ROS2` · `Robot Perception` · `Sensor Fusion` · `SLAM` · `Localization` · `Mapping` · `Path Planning` · `Autonomous Navigation` · `Kinematics` · `Control Systems` · `OpenCV`
+**Robotics / Systems** · ROS2 · Linux · Docker · Git · GitHub · Jupyter · Google Colab
 
-### 🌐 Systems, Networking & Security
-`5G/6G Network Slicing` · `QoS & Resource Allocation` · `TCP/IP` · `GRE VPN` · `ACLs` · `Cyber Threat Analysis` · `Anomaly Detection`
-
-### 🗄️ Databases & Development
-`MySQL` · `MongoDB` · `PostgreSQL` · `Node.js` · `React` · `REST APIs` · `CRUD`
-
-### 🛠️ Tools & Platforms
-`Git` · `GitHub` · `Linux` · `Docker` · `VS Code` · `Jupyter Notebook` · `Google Colab` · `Anaconda` · `Conda`
+**Development / Databases** · Node.js · React · MySQL · MongoDB · PostgreSQL · REST APIs
 
 # Current Focus
 
-```text
-GATE CSE • DSA • Operating Systems • DBMS • Computer Networks
-Computer Organization • TOC • Machine Learning • Deep Learning
-Distributed Systems • Robotics • 5G/6G Network Intelligence
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=500&color=38BDF8&center=true&vCenter=true&width=820&lines=GATE+CSE+PREPARATION;DSA+%E2%80%A2+OS+%E2%80%A2+DBMS+%E2%80%A2+COMPUTER+NETWORKS;CO+%E2%80%A2+TOC+%E2%80%A2+DISTRIBUTED+SYSTEMS" alt="Animated current focus" />
+
+</div>
 
 # Contributions
 
