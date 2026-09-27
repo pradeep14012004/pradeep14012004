@@ -69,22 +69,6 @@ Computer Organization • TOC • Machine Learning • Deep Learning
 Distributed Systems • Robotics • 5G/6G Network Intelligence
 ```
 
-# GitHub Highlights
-
-<div align="center">
-
-<a href="https://github.com/pradeep14012004?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=pradeep14012004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" /></a>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep14012004&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=pradeep14012004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-
-</div>
-
 # Contributions
 
 <div align="center">
