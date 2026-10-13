@@ -159,10 +159,6 @@ Resource-Constrained AI
 
 </div>
 
-## Open-Source Contributions
-
-- **[Fix/python command portability — PR #9](https://github.com/basitalisandhu/claude-code-tooling-skills/pull/9)** — Added a rule to flag bare `python` commands in Bash/sh code blocks and recommend `python3`; added regression tests and documentation. Merged on October 13, 2026, with all 15 CI checks passing.
-
 # Contributions
 
 <div align="center">
